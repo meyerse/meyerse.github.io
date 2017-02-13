@@ -2,3 +2,7 @@ h1 {
   margin-left: 5em;
   text-align: center;
 }
+
+p {
+  float: right;
+}
